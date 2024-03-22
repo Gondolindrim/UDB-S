@@ -4241,7 +4241,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "78171-0004"
+		(property "Value" "A1001WR-S-04P"
 			(at 177.165 49.2505 0)
 			(effects
 				(font
@@ -4250,7 +4250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:PicoEZMate-Reinforced-Lite"
+		(property "Footprint" "acheron_Connectors:SM04B-SRSS-TB(LF)(SN)_mounting-reliefs"
 			(at 173.99 46.355 0)
 			(effects
 				(font
@@ -4277,7 +4277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MOLEX"
+		(property "Manufacturer" "HR"
 			(at 173.99 46.355 0)
 			(effects
 				(font
@@ -4286,7 +4286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "78171-0004"
+		(property "Manufacturer Part Number" "A1001WR-S-04P"
 			(at 173.99 46.355 0)
 			(effects
 				(font
@@ -4295,7 +4295,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C588524"
+		(property "LCSC Part Number" "C371510"
+			(at 173.99 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 173.99 46.355 0)
 			(effects
 				(font
